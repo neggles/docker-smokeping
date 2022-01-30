@@ -1,0 +1,1 @@
+# docker smokeping container image
